@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.3.5</version> 
+  <version>0.3.1</version> 
 
 <dependencies>
   <dependency>
@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/vikhanmuhammad/Week13-1302213089-Deployment</url>
     </repository>
   </distributionManagement>
   
